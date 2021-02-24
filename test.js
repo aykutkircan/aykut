@@ -1,3 +1,5 @@
-const aykut = require("./index");
+const Aykut = require("./index");
 
-module.exports = aykut;
+const test = Aykut.reverseString("Hello World")
+
+module.exports = console.log(test);
