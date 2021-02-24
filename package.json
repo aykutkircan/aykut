@@ -1,0 +1,19 @@
+{
+  "name": "aykut-k",
+  "version": "0.0.1",
+  "description": "npm i aykut-kircan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aykutkircan/aykut.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aykutkircan/aykut/issues"
+  },
+  "homepage": "https://github.com/aykutkircan/aykut#readme"
+}
