@@ -10,4 +10,9 @@ const reversedString = Aykut.reverseString(string);
 
 console.log(reversedString);
 
-//  .edmiblak neyemeveS ,liğed ednes tahabaK ,enidnek unub ampay rulo eN ,eczisses nasroyılğa niçi mineB ,nügub alah arnos rallıY
+//.edmiblak neyemeveS ,liğed ednes tahabaK ,enidnek unub ampay rulo eN ,eczisses nasroyılğa niçi mineB ,nügub alah arnos rallıY
+
+
+# test
+
+node test.js
