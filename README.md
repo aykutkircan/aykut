@@ -1,8 +1,8 @@
-# aykut
+# aykut-kircan
 
-npm i aykut-k
+npm i aykut-kircan
 
-const Aykut = require("aykut-k");
+const Aykut = require("aykut-kircan");
 
 const string = "Yıllar sonra hala bugün, Benim için ağlıyorsan sessizce, Ne olur yapma bunu kendine, Kabahat sende değil, Sevemeyen kalbimde."
 
@@ -15,4 +15,12 @@ console.log(reversedString);
 
 # test
 
-node test.js
+npm i aykut-kircan
+
+const Aykut = require("aykut-kircan");
+
+const testString = Aykut.test();
+
+//Default değer: Candan Erçetin 
+//Test Sonucu: niteçrE nadnaC
+

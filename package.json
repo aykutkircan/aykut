@@ -1,7 +1,7 @@
 {
-  "name": "aykut-k",
-  "version": "0.0.2",
-  "description": "npm i aykut-k",
+  "name": "aykut-kircan",
+  "version": "0.1.0",
+  "description": "npm i aykut-kircan",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,10 +10,19 @@
     "type": "git",
     "url": "git+https://github.com/aykutkircan/aykut.git"
   },
+  "keywords": [
+    "aykut",
+    "aykutk",
+    "reverse",
+    "reverse-string",
+    "string",
+    "aykutkircan"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/aykutkircan/aykut/issues"
   },
-  "homepage": "https://github.com/aykutkircan/aykut#readme"
+  "homepage": "https://github.com/aykutkircan/aykut#readme",
+  "dependencies": {}
 }
