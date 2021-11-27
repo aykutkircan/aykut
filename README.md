@@ -1,11 +1,11 @@
-## aykut-kircan
+# aykut-kircan
 
-# Installation 
+## Installation 
 ```shell
 npm i aykut-kircan
 ```
 
-# Initialize
+## Initialize
 ```js
 
 const Aykut = require("aykut-kircan");
@@ -21,14 +21,14 @@ console.log(reversedString);
 
 
 
-## test
+# test
 
-# Installation 
+## Installation 
 ```shell
 npm i aykut-kircan
 ```
 
-# Initiazlize
+## Initiazlize
 
 ```js
 const Aykut = require("aykut-kircan");
