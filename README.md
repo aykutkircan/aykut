@@ -1,26 +1,43 @@
-# aykut-kircan
+## aykut-kircan
 
-`npm i aykut-kircan`
+# Installation 
+```shell
+npm i aykut-kircan
+```
 
-`const Aykut = require("aykut-kircan");`
+# Initialize
+```js
 
-`const string = "Yıllar sonra hala bugün, Benim için ağlıyorsan sessizce, Ne olur yapma bunu kendine, Kabahat sende değil, Sevemeyen kalbimde."`
+const Aykut = require("aykut-kircan");
 
-`const reversedString = Aykut.reverseString(string);`
+const string = "Yıllar sonra hala bugün, Benim için ağlıyorsan sessizce, Ne olur yapma bunu kendine, Kabahat sende değil, Sevemeyen kalbimde."
 
-`console.log(reversedString);`
+const reversedString = Aykut.reverseString(string);
 
-`//.edmiblak neyemeveS ,liğed ednes tahabaK ,enidnek unub ampay rulo eN ,eczisses nasroyılğa niçi mineB ,nügub alah arnos rallıY`
+console.log(reversedString);
+
+//.edmiblak neyemeveS ,liğed ednes tahabaK ,enidnek unub ampay rulo eN ,eczisses nasroyılğa niçi mineB ,nügub alah arnos rallıY
+```
 
 
-# test
 
-`npm i aykut-kircan`
+## test
 
-`const Aykut = require("aykut-kircan");`
+# Installation 
+```shell
+npm i aykut-kircan
+```
 
-`const testString = Aykut.test();`
+# Initiazlize
 
-`//Default değer: Candan Erçetin` \
-`//Test Sonucu: niteçrE nadnaC`
+```js
+const Aykut = require("aykut-kircan");
+
+const testString = Aykut.test();
+
+//Default değer: Candan Erçetin
+//Test Sonucu: niteçrE nadnaC
+
+```
+
 
